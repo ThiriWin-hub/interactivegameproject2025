@@ -1,0 +1,15 @@
+# Build outputs
+out/
+build/
+*.o
+*.exe
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+
