@@ -1,5 +1,3 @@
-// Thiri Win (25043785)
-
 #include "raylib.h"
 
 int main(void) {
